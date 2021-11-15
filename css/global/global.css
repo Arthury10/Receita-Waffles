@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+body {
+	background: var(--color-bg-pg);
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+	height: auto;
+	overflow-x: hidden;
+}
+
+img {
+	max-width: 100%;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	position: relative;
+	padding: 40px 40px;
+}
+
+.space-li li {
+	margin-bottom: 1.75rem;
+	font-size: 1rem;
+}
+
+.desativo {
+	opacity: 0 !important;
+}
+
+.ativo {
+	opacity: 1 !important;
+}

@@ -1,0 +1,20 @@
+.main {
+	background-color: var(--color-bg-rc);
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.ingredientes h2 {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+.preparo h2 {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+.info-add h2 {
+	text-align: center;
+	margin-bottom: 2rem;
+}

@@ -1,0 +1,27 @@
+:root {
+	--color-bg-pg: #eaeaea;
+	--color-bg-rc: #ffffff;
+	--color-t-sub-text: #1b1b1b;
+	--color-footer-legend: #8f8f8f;
+	--color-other: #39393a;
+}
+
+.color-bg-pg {
+	background-color: var(--color-bg-pg);
+}
+
+.color-bg-rx {
+	background-color: var(--color-bg-rc);
+}
+
+.color-text-h {
+	color: var(--color-t-sub-text);
+}
+
+.color-f-legend {
+	color: var(--color-footer-legend);
+}
+
+.color-other {
+	color: var(--color-other);
+}

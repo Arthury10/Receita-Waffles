@@ -1,0 +1,7 @@
+.footer-bg {
+	text-align: center;
+}
+
+.footer-bg a {
+	border-bottom: 1px solid var(--color-footer-legend);
+}

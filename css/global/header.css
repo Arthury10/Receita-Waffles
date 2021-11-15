@@ -1,0 +1,21 @@
+.header {
+	background-color: var(--color-bg-rc);
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
+
+.header h1 {
+	margin-bottom: 2rem;
+}
+
+.header figure img {
+	width: 100%;
+	height: 350px;
+	border-radius: 5px;
+	object-fit: cover;
+}
+
+.header figure figcaption {
+	text-align: right;
+}

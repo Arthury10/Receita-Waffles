@@ -1,0 +1,22 @@
+.h1 {
+	font-size: 1.75rem;
+	line-height: 1.25;
+	color: var(--color-t-sub-text);
+}
+
+.h2 {
+	font-size: 1.25rem;
+	line-height: 1.25;
+	color: var(--color-t-sub-text);
+}
+
+.p-list {
+	font-size: 1rem;
+	line-height: 1.625rem;
+}
+
+.legend {
+	font-size: 0.75rem;
+	line-height: 1.25;
+	color: var(--color-footer-legend);
+}
